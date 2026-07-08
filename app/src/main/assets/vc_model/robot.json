@@ -1,0 +1,8 @@
+{
+  "id": "robot_1",
+  "name": "Robot",
+  "pitchFactor": 1.0,
+  "formantShift": 0.0,
+  "isFree": true,
+  "category": "robot"
+}

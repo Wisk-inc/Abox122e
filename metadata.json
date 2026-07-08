@@ -1,0 +1,6 @@
+{
+  "name": "Abox",
+  "description": "Real-time Voice Changer App with TarsosDSP pipeline.",
+  "requestFramePermissions": ["android.permission.RECORD_AUDIO"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

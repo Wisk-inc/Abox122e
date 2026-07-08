@@ -1,0 +1,8 @@
+{
+  "id": "deep_male_1",
+  "name": "Deep Male",
+  "pitchFactor": 0.75,
+  "formantShift": -2.0,
+  "isFree": true,
+  "category": "male"
+}

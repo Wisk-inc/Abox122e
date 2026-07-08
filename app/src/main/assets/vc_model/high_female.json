@@ -1,0 +1,8 @@
+{
+  "id": "high_female_1",
+  "name": "High Female",
+  "pitchFactor": 1.3,
+  "formantShift": 2.0,
+  "isFree": true,
+  "category": "female"
+}
